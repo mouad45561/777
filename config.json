@@ -2,9 +2,9 @@
     "Title_Configs":[
         {
 
-           "name": "Your_Name_here",
-           "servername": "Your_Server_Name",
-           "program": "Your_Program_Name"
+           "name": "771",
+           "servername": "w9",
+           "program": "vercel"
 
         }
     ],
@@ -12,8 +12,8 @@
     "Webhook_config":[
         {
 
-          "Bot_Name": "YourBotName",
-          "Bot_Avatar": "https://media.discordapp.net/attachments/818904459681071126/1008774401648505013/goat6.jpg"
+          "Bot_Name": "w9",
+          "Bot_Avatar": "https://i.pinimg.com/736x/1b/1d/1d/1b1d1d54b542a9676199598d84b438c2.jpg"
   
         }
     ],
